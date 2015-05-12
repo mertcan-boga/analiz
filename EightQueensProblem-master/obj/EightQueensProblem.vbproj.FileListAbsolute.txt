@@ -1,0 +1,4 @@
+C:\Documents and Settings\pursottam.MCN08\My Documents\Visual Studio 2005\Projects\EightQueensProblem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pursottam.MCN08\My Documents\Visual Studio 2005\Projects\EightQueensProblem\obj\Debug\EightQueensProblem.ChessBoard.resources
+C:\Documents and Settings\pursottam.MCN08\My Documents\Visual Studio 2005\Projects\EightQueensProblem\obj\Debug\EightQueensProblem.Form1.resources
+C:\Documents and Settings\pursottam.MCN08\My Documents\Visual Studio 2005\Projects\EightQueensProblem\obj\Debug\EightQueensProblem.vbproj.GenerateResource.Cache
